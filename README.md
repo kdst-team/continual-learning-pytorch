@@ -1,6 +1,6 @@
 # Class Incremental Learning Zoo - pytorch version
 Unofficial pytorch version of reproducing the method of class incremental learning (Working) in classification. </br>
-Original code is from [repo](https://github.com/3neutronstar/CIL-Zoo). <\br>
+Original code is from this [repo](https://github.com/3neutronstar/CIL-Zoo). </br>
 
 Currently only CIFAR100 dataset is available.
 

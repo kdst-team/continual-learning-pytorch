@@ -99,7 +99,7 @@ class EEIL(ICARL):
             # End of regular learning: FineTuning #
             if task_num > 1:
                 size_of_bft_exemplar = self.configs['memory_size']//(
-                    self.current_num_classes-self.task_step)
+                    self.current_num_classes)#-self.task_step)
                 bft_train_dataset = self.datasetloader.train_data.get_bft_data(
                     size_of_bft_exemplar)
                 if 'cifar' in self.configs['dataset']:

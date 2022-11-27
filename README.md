@@ -54,4 +54,4 @@ EEIL use BiC settings for reproducing, we provide EEIL settings also.</br>
 - [repo](https://github.com/3neutronstar/CIL-Zoo)
 
 ### Contributor
-- w[Minsoo Kang](https://github.com/3neutronstar)
+- [Minsoo Kang](https://github.com/3neutronstar)
